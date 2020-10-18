@@ -1,0 +1,40 @@
+body{
+          width:60%;
+          margine:auto;
+}
+
+
+h1,h2{
+          height:10px;
+ }
+
+
+#mainmenu
+{
+         text-align:right;
+         background -color:chocolate;
+         margin-top:20px;
+          padding:10px;
+          color:white;
+         font-weight:bold;
+}
+
+
+
+#mainimage{
+                   width:100%;
+}
+
+
+
+#quotes{
+           width:40%;
+           height:100px;
+           float:right;
+}
+
+
+#APJ quotes{
+        background-color:darkred;
+        color:white;
+}
