@@ -1,40 +1,45 @@
-body{
-          width:60%;
-          margine:auto;
+﻿body{
+         width:60%;
+          margin:auto;
 }
 
-
-h1,h2{
-          height:10px;
+#contact{
+              text-align:right;
  }
 
-
-#mainmenu
-{
-         text-align:right;
-         background -color:chocolate;
-         margin-top:20px;
-          padding:10px;
-          color:white;
-         font-weight:bold;
+#logo{
+            float:left;
 }
 
+h1,h2{
+         height:10px;
+}
 
+#mainmenu{
+              text-align:right;
+               background-color: chocolate;
+               margin-top:20p ;
+               padding: 10px;
+               color: white;
+               font-weight: bold;
+}
 
 #mainimage{
-                   width:100%;
+               width:100%;
 }
 
-
-
-#quotes{
-           width:40%;
-           height:100px;
-           float:right;
+#latestnews{
+              width: 40%;
+              height: 100px;
+              float: left;
 }
 
+#latestnewshead{
+               background-color: darked;
+                color: white;
+}
 
-#APJ quotes{
-        background-color:darkred;
-        color:white;
+#aboutushead{
+                 background-color: #FFEBCD;
+                  padding: 10px;
 }
