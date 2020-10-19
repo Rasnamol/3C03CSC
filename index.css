@@ -21,13 +21,13 @@ h1,h2{
                width:100%;
 }
 
-#quotes{
+#latestnews{
               width: 40%;
               height: 100px;
               float: left;
 }
 
-#quotesline{
+#latestnewshead{
                background-color: darkred;
                 color:white;
 }
