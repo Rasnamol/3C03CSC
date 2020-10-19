@@ -35,11 +35,12 @@ h1,h2{
 }
 
 #latestnewshead{
-               background-color: chocolate;
-                color: black;
+               background-color: darked;
+                color: white;
+                Padding:10px;
 }
 
 #aboutushead{
-                 background-color: blue;
+                 background-color: tomato;
                   padding: 10px;
 }
