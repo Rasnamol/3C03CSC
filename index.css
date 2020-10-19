@@ -27,6 +27,12 @@ h1,h2{
               float: left;
 }
 
+#aboutus{
+               width:58%;
+                height:100px;
+                float:right;
+}
+
 #latestnewshead{
                background-color: darkred;
                 color:white;
@@ -34,6 +40,19 @@ h1,h2{
 }
 
 #aboutushead{
-                 background-color: #FFEBCD;
+                 background-color: slateblue;
                   padding: 10px;
+                   color:white;
+                    margin-bottom:0px;
+}
+
+marqueestyle{
+                 background-color:#FFEBCD;
+                 padding:10px;
+                 height: 100px;
+}
+#aboutusdesc{
+               background-color:beige;
+               padding:100px;
+               text-align:justify;
 }
