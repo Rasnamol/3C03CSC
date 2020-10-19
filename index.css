@@ -37,13 +37,13 @@ h1,h2{
                background-color: darkred;
                 color:white;
                 padding:10px;
+                 margin-bottom:0px;
 }
 
 #aboutushead{
                  background-color: slateblue;
                   padding: 10px;
                    color:white;
-                    margin-bottom:0px;
 }
 
 #marqueestyle{
