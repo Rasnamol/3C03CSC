@@ -1,0 +1,30 @@
+﻿body{
+         width:60%;
+          margin:auto;
+          text-align:justify;
+          font-size:13px;
+          background-color:#FFFFF0;
+}
+
+
+h1,h2{
+         text-align:center;
+}
+
+#mainmenu{
+              text-align:auto;
+               background-color: black;
+               margin-top:0p ;
+               padding: 10px;
+               color: white;
+               font-weight: bold;
+               font-size:14px
+}
+
+#mainimage{
+               width:50%;
+               height:50%;
+               margine:auto;
+               border:black;
+               border:5px solidblack;
+}
