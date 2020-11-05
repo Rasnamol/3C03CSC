@@ -1,0 +1,76 @@
+﻿<Html>  
+<head>   
+<title>  
+Registration Page  
+</title> 
+</head>  
+<body> 
+<h1 style="color:darkred">Registration Form</h1>
+<br>  
+<form>         
+<label > Name </label>         
+<input type="text" name placeholder="Name" size="15"  required/> <br> 
+ Languages known:
+ English:<input type="checkbox" value="eng" checked />
+ Malayalam:<input type="checkbox" value="mal" checked />
+ Hindi:<input type="checkbox" value="hin"  checked/>
+ <br>
+ <br>
+   
+University:     
+<select>  
+<option value="Kannur University">Kannur University</option>  
+<option value="University of Calicut">University of Calicut</option>  
+<option value="MG University">MG University</option>  
+<option value="Kerala University">Kerala University </option>  
+</select> 
+</br>
+</br>
+ 
+Programmes:
+<input type=text list="Programmes" />
+<datalist id="Programmes">
+     <Option value="Computer Science"/>
+     <Option value="Phisycs"/>
+     <Option value="Chemistry"/>
+     <Option value="stati"/>
+</datalist>
+
+</br>  
+</br>  
+
+<label>   
+Gender :  
+</label><br>  
+<input type="radio" name="male"/> Male <br>  
+<input type="radio" name="female"/> Female <br>  
+<input type="radio" name="other"/> Other  
+<br>  
+<br>
+
+Date of Birth: <input type="date" min="1990-01-01"/>  
+</br>
+</br>
+  
+<label>   
+Phone :  
+</label>  
+<input type="text" name placeholder="country code"  value="+91" size="2"/>   
+<input type="text" name placeholder="phone" size="10"/> <br> <br>  
+Address  
+<br>  
+<textarea cols="80" rows="5" value="address">  
+</textarea>  
+<br> <br>  
+Email:  
+<input type="email"  name placeholder="email" required/> <br>    
+<br> <br>  
+Password:  
+<input type="Password"  name placeholder="password" required> <br>   
+<br> <br>  
+Confirm password:  
+<input type="Password" id="repass" name placeholder="confirm password"> <br> <br>
+   <input type="submit" /> <br /><br />
+</form>  
+</body> 
+</html>  
