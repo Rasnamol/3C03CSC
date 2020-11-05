@@ -25,6 +25,6 @@ h1,h2{
                width:50%;
                height:50%;
                margine:auto;
-               border-color:black;
+               border-color:solidblack;
                border:5px ;
 }
